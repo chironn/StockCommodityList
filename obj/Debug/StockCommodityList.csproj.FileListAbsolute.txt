@@ -1,0 +1,34 @@
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.CommodityChart.resources
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csproj.GenerateResource.Cache
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csproj.CoreCompileInputs.cache
+E:\项目\trade_client\StockCommodityList\bin\Debug\StockCommodityList.dll
+E:\项目\trade_client\StockCommodityList\bin\Debug\StockCommodityList.pdb
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.dll
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.pdb
+E:\项目\trade_client\StockCommodityList\bin\Debug\Newtonsoft.Json.dll
+E:\项目\StockCharts\StockCommodityList\bin\Debug\StockCommodityList.dll
+E:\项目\StockCharts\StockCommodityList\bin\Debug\StockCommodityList.pdb
+E:\项目\StockCharts\StockCommodityList\bin\Debug\Newtonsoft.Json.dll
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.CommodityChart.resources
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.csproj.GenerateResource.Cache
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.csproj.CoreCompileInputs.cache
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.dll
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.pdb
+E:\项目\StockCharts\StockCommodityList\obj\Debug\StockCommodityList.csprojResolveAssemblyReference.cache
+D:\project\trade_client\StockCommodityList\bin\Debug\StockCommodityList.dll
+D:\project\trade_client\StockCommodityList\bin\Debug\StockCommodityList.pdb
+D:\project\trade_client\StockCommodityList\bin\Debug\Newtonsoft.Json.dll
+D:\project\trade_client\StockCommodityList\obj\Debug\StockCommodityList.CommodityChart.resources
+D:\project\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csproj.GenerateResource.Cache
+D:\project\trade_client\StockCommodityList\obj\Debug\StockCommodityList.dll
+D:\project\trade_client\StockCommodityList\obj\Debug\StockCommodityList.pdb
+E:\项目\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csprojResolveAssemblyReference.cache
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\bin\Debug\StockCommodityList.dll
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\bin\Debug\StockCommodityList.pdb
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csprojResolveAssemblyReference.cache
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.CommodityChart.resources
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csproj.GenerateResource.Cache
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.csproj.CoreCompileInputs.cache
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.dll
+C:\Users\14153\Documents\visual studio 2017\Projects\trade_client\StockCommodityList\obj\Debug\StockCommodityList.pdb
